@@ -1,0 +1,17 @@
+{
+	"name": "cordova-last-photo-taken",
+	"version": "0.0.2",
+	"description": "A plugin that allows you to retrieve the last photo taken by the user.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Untappd/cordova-last-photo-taken"
+	},
+	"bugs": {
+		"url": "https://github.com/JonathanAquino/cordova-last-photo-taken/issues"
+	},
+	"keywords": [
+		"cordova"
+	],
+	"author": "JonathanAquino"
+}
